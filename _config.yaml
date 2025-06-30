@@ -1,0 +1,15 @@
+title: My GitHub Pages Site
+description: A simple website hosted on GitHub Pages
+url: "https://antvince.github.io"
+baseurl: "/github-website"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
